@@ -11,3 +11,5 @@
 + second commit
 
 + thrid change
+
++ checking what is rebase and merge 1
