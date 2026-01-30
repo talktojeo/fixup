@@ -32,4 +32,8 @@
 
 + rebase 3 JJ
 
-+ trying the fix up 
++ trying the fix up
+
++ adding force comming onthe same SHA
+
++ commiting on the same previous commit
