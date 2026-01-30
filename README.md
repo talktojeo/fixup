@@ -15,3 +15,5 @@
 + checking what is rebase and merge 1
 
 + checking what is rebase merge2
+
++ chking rebase 3
